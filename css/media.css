@@ -1,0 +1,808 @@
+@media only screen and (max-width: 2054px){
+    
+}
+
+
+@media only screen and (max-width: 1920px){
+
+}
+
+
+@media only screen and (max-width: 1280px){
+
+    body{
+        font-size: 17px;
+    }
+
+    .container{
+        max-width: 1220px;
+    }
+
+    .heading {
+        font-size: 38px;
+        line-height: 55px;
+    }
+
+    .promo__content h2 {
+        font-size: 62px;
+    }
+
+    .offer__card_1{
+        margin-right: 25px;
+    }
+
+    .about__bcg{
+        width: 600px;
+        height: 600px;
+    }
+
+    .about__content h3 {
+        font-size: 42px;
+    }
+
+    .about__content p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .about__text h4 {
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .main__cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .testimonial__info p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .testimonial__advantages {
+        justify-content: space-evenly;
+    }
+
+    .testimonial__circle_1 {
+        width: 210px;
+        height: 210px;
+    }
+
+    .testimonial__circle_2 {
+        width: 200px;
+        height: 200px;
+    }
+
+    .testimonial__number {
+        font-size: 40px;
+        top: 60px;
+    }
+
+    .testimonial__number_1 {
+        left: 54px;
+    }
+
+    .testimonial__number_2 {
+        left: 63px;
+    }
+
+    .testimonial__number_3 {
+        left: 58px;
+    }
+
+    .testimonial__number_4 {
+        left: 70px;
+    }
+
+    .testimonial__text {
+        font-size: 16px;
+        top: 110px;
+    }
+
+    .testimonial__text_1 {
+        left: 65px;
+    }
+
+    .testimonial__text_2 {
+        left: 40px;
+    }
+
+    .testimonial__text_3 {
+        left: 33px;
+    }
+
+    .testimonial__text_4 {
+        left: 32px;
+    }
+
+    .offer__button {
+        width: 210px;
+    }
+
+    .offer__button_text {
+        font-size: 16px;
+        margin-left: 15px;
+    }
+
+    .eco__item h4 {
+        font-size: 21px;
+    }
+
+    .picture__text {
+        padding: 23px 0;
+        font-size: 22px;
+    }
+
+    .picture__text_1 {
+        width: 240px;
+    }
+
+    .picture__text_2 {
+        width: 250px;
+    }
+
+    .picture__text_3 {
+        width: 250px;
+    }
+
+    .email__address {
+        width: 275px;
+        height: 75px;
+        font-size: 16px;
+    }
+
+    .email__button {
+        width: 190px;
+        padding: 20px 0;
+    }
+
+    .email__button_text {
+        font-size: 17px;
+    }
+
+    .email__wrap {
+        margin: 0 70px;
+    }
+
+    .info__wrap h4 {
+        font-size: 28px;
+    }
+
+    .info__wrap p {
+        font-size: 16px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1152px){
+
+    body{
+        font-size: 16px;
+    }
+
+    .container{
+        max-width: 1092px;
+    }
+
+    .caption {
+        font-size: 33px;
+    }
+
+    .button {
+        width: 200px;
+        padding: 20px 0;
+    }
+
+    .button__text {
+        font-size: 17px;
+        margin-left: 27px;
+    }
+
+    .button__arrow {
+        width: 36px;
+        height: 36px;
+        top: 19px;
+        right: 12px;
+    }
+
+    .heading {
+        font-size: 36px;
+        line-height: 52px;
+    }
+
+    .header__cart {
+        width: 150px;
+        height: 65px;
+    }
+
+    .shop__cart {
+        top: 5px;
+        left: 10px;
+    }
+
+    .promo__content h2 {
+        font-size: 57px;
+        line-height: 75px;
+    }
+
+    .offer__card {
+        height: 355px;
+    }
+
+    .offer__card h3 {
+        font-size: 37px;
+        line-height: 50px;
+        max-width: 245px;
+    }
+
+    .about__content {
+        margin-left: 0;
+    }
+
+    .about__content h3 {
+        font-size: 40px;
+    }
+
+    .about__text h4 {
+        font-size: 21px;
+    }
+
+    .about__content p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    .main__card {
+        max-width: 435px;
+        height: 575px;
+    }
+
+    .card__info h4 {
+        font-size: 21px;
+    }
+
+    .card__new-price, .card__new-price {
+        font-size: 17px;
+    }
+
+    .testimonial__info p {
+        max-width: 882px;
+    }
+
+    .offer__button_text{
+        font-size: 15px;
+        margin-left: 16px;
+    }
+
+    .main__picture{
+        height: 530px;
+    }
+
+    .picture__text {
+        padding: 20px 0;
+        font-size: 21px;
+    }
+
+    .picture__text_1 {
+        width: 230px;
+    }
+
+    .picture__text_2 {
+        width: 240px;
+    }
+
+    .picture__text_3 {
+        width: 240px;
+    }
+
+    .info__wrap h4 {
+        font-size: 25px;
+    }
+
+    .info__wrap h5 {
+        font-size: 16px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1024px){
+
+    body{
+        font-size: 16px;
+    }
+
+    .container{
+        max-width: 984px;
+    }
+
+    .heading {
+        font-size: 32px;
+        line-height: 45px;
+    }
+
+    .nav__toggle{
+        display: inline-block;
+    }
+        
+    #nav__toggle:checked ~ .nav__list{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .nav__list{
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: #F9F8F8;
+        opacity: .9;
+        padding: 50px;
+        min-width: 150px;
+        height: 100%;
+        position: fixed;
+        z-index: 999;
+    }
+        
+    .nav__item:not(:last-child){
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .about__bcg{
+        display: none;
+    }
+    
+    .about__content{
+        text-align: center;
+    }
+
+    .about__content h3{
+        margin: 0 auto;
+        margin-bottom: 22px;
+    }
+
+    .about__item{
+        justify-content: center;
+        margin-bottom: 0;
+    }
+
+    .about__item:first-child{
+        margin-top: 40px;
+    }
+
+    .about__square{
+        margin-top: 0;
+    }
+
+    .about__button {
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+
+    .button__text {
+        font-size: 15px;
+        margin-right: 75px;
+    }
+
+    .offer__button_text {
+        font-size: 14px;
+        margin-left: 15px;
+        margin-right: 0;
+    }
+
+    .eco__bg {
+        display: none;
+    }
+
+    .eco__friedly {
+        left: 0;
+        top: 0;
+    }
+
+    .eco__wrap{
+        display: flex;
+    }
+
+    .eco__caption {
+        margin-top: 100px;
+        justify-content: center;
+    }
+
+    .eco__heading{
+        width: 100%;
+    }
+
+    .main__picture{
+        height: 480px;
+    }
+
+    .picture__text {
+        font-size: 20px;
+    }
+
+    .picture__text_1 {
+        width: 210px;
+    }
+
+    .picture__text_2, .picture__text_3 {
+        width: 215px;
+    }
+
+    .email__address {
+        width: 255px;
+        height: 65px;
+        font-size: 14px;
+    }
+
+    .email__button {
+        width: 180px;
+        padding: 18px 0;
+    }
+
+    .email__button_arrow {
+        width: 33px;
+        height: 33px;
+        top: 16px;
+    }
+
+    .info__wrap h4 {
+        font-size: 23px;
+    }
+
+    .info__wrap p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+
+    .pages__item a {
+        font-size: 15px;
+    }
+
+    .company__network {
+        width: 56px;
+        height: 56px;
+    }
+
+}
+
+
+@media only screen and (max-width: 800px){
+    
+    .container{
+        max-width: 760px;
+    }
+
+    .button {
+        width: 170px;
+        padding: 15px 0;
+    }
+
+    .button__text {
+        font-size: 13px;
+        margin-right: 60px;
+    }
+
+    .button__arrow {
+        width: 30px;
+        height: 30px;
+        top: 16px;
+    }
+
+    .heading {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .header__cart {
+        width: 66px;
+        height: 66px;
+        border-radius: 50%;
+    }
+
+    .shop__cart {
+        top: 5px;
+        left: 5px;
+    }
+
+    .cart__item, .cart__number{
+       display: none;
+    }
+
+    .main__promo {
+        height: 700px;
+    }
+
+    .promo__content {
+        padding-top: 160px;
+    }
+
+    .promo__content h2 {
+        font-size: 48px;
+        line-height: 68px;
+        margin-top: 20px;
+    }
+
+    .offer__wrap {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .offer__card_1 {
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+
+    .offer__card h3 {
+        font-size: 37px;
+        line-height: 40px;
+        max-width: 260px;
+    }
+
+    .about__content h3 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .offer__button_text {
+        margin-right: 0;
+    }
+
+    .main__card {
+        max-width: 430px;
+        height: 540px;
+    }
+
+    .main__card:nth-child(odd) {
+        margin-right: 0;
+    }
+
+    .testimonial__info p {
+        max-width: 700px;
+    }
+
+    .testimonial__ico {
+        width: 110px;
+        height: 110px;
+    }
+
+    .testimonial__line {
+        max-width: 600px;
+    }
+
+    .testimonial__circle_1 {
+        width: 140px;
+        height: 140px;
+        border: 4px solid #7EB693;
+    }
+
+    .testimonial__circle_2 {
+        width: 130px;
+        height: 130px;
+    }
+
+    .testimonial__number {
+        font-size: 30px;
+        top: 24px;
+    }
+
+    .testimonial__number_1{
+        left: 30px;
+    }
+
+    .testimonial__number_2{
+        left: 36px;
+    }
+
+    .testimonial__number_3 {
+        left: 32px;
+    }
+
+    .testimonial__number_4 {
+        left: 38px;
+    }
+
+    .testimonial__text {
+        font-size: 14px;
+        top: 70px;
+        line-height: 20px;
+    }
+
+    .testimonial__text_1 {
+        left: 34px;
+    }
+
+    .testimonial__text_2 {
+        left: 10px;
+    }
+
+    .testimonial__text_3 {
+        left: 5px;
+    }
+
+    .testimonial__text_4 {
+        left: 3px;
+    }
+
+    .pictures__wrap {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 40px;
+    }
+
+    .picture__text {
+        padding: 16px 0;
+        font-size: 18px;
+    }
+
+    .email__bg {
+        height: 275px
+    }
+
+    .email__wrap {
+        flex-direction: column;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .email__heading{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .email__address {
+        width: 255px;
+        height: 50px;
+        font-size: 13px;
+    }
+
+    .email__button {
+        margin-right: 0;
+        margin-left: 12px;
+        width: 145px;
+        padding: 10px 0;
+    }
+
+    .email__button_arrow {
+        top: 10px;
+    }
+
+    .info__wrap{
+        flex-wrap: wrap;
+        justify-content: space-around;
+        row-gap: 30px;
+    }
+
+    .info__contacts, .info__company, .info__pages{
+        flex: none;
+    }
+
+    .info__company{
+        order: -1;
+        margin: 0;
+        border: 0;
+        border-bottom: 1px solid #D5D5D5;
+        width: 100%;
+    }
+    
+    .company__networks{
+        margin-bottom: 30px;        
+    }
+
+    .info__wrap h5 {
+        font-size: 15px;
+    }
+
+    .info__wrap p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+
+    .pages__item a {
+        font-size: 14px;
+    }
+
+    .footer__map{
+        height: 550px;
+    }
+
+}
+
+
+@media only screen and (max-width: 768px){
+
+    .container{
+        max-width: 728px;
+    }
+
+    .main__picture {
+        height: 450px;
+    }
+
+    .email__bg {
+        height: 250px;
+    }
+
+}
+
+
+@media only screen and (max-width: 640px){
+
+    .container{
+        max-width: 600px;
+    }
+
+    .caption {
+        font-size: 30px;
+    }
+
+    .promo__content h2 {
+        font-size: 43px;
+        line-height: 60px;
+        margin-top: 10px;
+    }
+
+    .offer__card {
+        height: 300px;
+    }
+
+    .about__content h3 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .about__square {
+        max-width: 90px;
+        width: 100%;
+        height: 90px;
+    }
+
+    .about__icon_1 img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .about__icon_2 img {
+        width: 46px;
+        height: 46px;
+    }
+
+    .main__picture {
+        height: 450px;
+    }
+
+    .email__bg {
+        height: 250px;
+    }
+
+}
+
+
+@media only screen and (max-width: 425px){
+    
+    .container{
+        max-width: 385px;
+    }
+
+    .header__wrap{
+        flex-wrap: wrap;
+    }
+
+}
+
+
+@media only screen and (max-width: 375px){
+    
+}
+
+
+@media only screen and (max-width: 320px){
+    
+}
