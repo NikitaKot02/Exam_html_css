@@ -786,19 +786,117 @@
 
 
 @media only screen and (max-width: 425px){
-    
+
     .container{
         max-width: 385px;
+    }
+
+    .heading {
+        font-size: 27px;
     }
 
     .header__wrap{
         flex-wrap: wrap;
     }
 
+    .promo__content h2 {
+        font-size: 38px;
+        line-height: 56px;
+    }
+
+    .offer__card {
+        height: 250px;
+    }
+
+    .offer__card h3 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+
+    .about__square {
+        display: none;
+    }
+
+    .testimonial__ico {
+        width: 100px;
+        height: 100px;
+    }
+
+    .testimonial__stars {
+        width: 120px;
+        height: 25px;
+    }
+
+    .testimonial__info p {
+        max-width: 370px;
+    }
+
+    .testimonial__taylor {
+        font-size: 24px;
+    }
+
+    .testimonial__advantages {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .offer__head {
+        flex-wrap: wrap;
+    }
+
+    .offer__button {
+        margin-top: 20px;
+        margin-left: 0;
+        margin-right: 00px;
+    }
+
+    .email__bg {
+        height: 210px;
+    }
+
+    .email__field {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .email__address{
+        margin-bottom: 10px;
+        height: 45px;
+    }
+
+    .email__button{
+        margin-left: 0;
+    }
+
+    .info__wrap{
+        justify-content: space-between;
+    }
+
+    .info__wrap h4 {
+        font-size: 21px;
+    }
+
+    .info__contacts h4, .info__contacts h5, .info__contacts p{
+        text-align: left;
+    }
+
+    .info__pages h4, .pages__item{
+        text-align: right;
+    }
+
+    .footer__map {
+        height: 400px;
+    }
+
 }
 
 
 @media only screen and (max-width: 375px){
+
+    .container{
+        max-width: 335px;
+    }
     
 }
 

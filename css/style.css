@@ -460,6 +460,8 @@ body{
     background: #F9F8F8;
     border-radius: 30px;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .main__card img{
@@ -467,7 +469,6 @@ body{
     height: 378px;
     position: absolute;
     top: 67px;
-    left: 30px;
 }
 
 .card__type{
@@ -498,8 +499,8 @@ body{
 .card__info{
     position: absolute;
     bottom: 20.45px;
-    left: 30px;
-    width: 387px;
+    max-width: 387px;
+    width: 100%;
 }
 
 .card__info h4{
@@ -1012,7 +1013,8 @@ body{
     text-align: center;
     letter-spacing: 0.36px;
     color: #525C60;
-    margin: 44px 52px 60px 52px;
+    margin: 44px auto 60px;
+    max-width: 567px;
 }
 
 .company__networks{
