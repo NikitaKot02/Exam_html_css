@@ -152,7 +152,7 @@ body{
     text-decoration: none;
 }
 
-.nav__item a:hover{
+.nav__item a:hover, .nav__item a:active{
     color: #7EB693;
     transition-duration: .3s;
 }
@@ -740,7 +740,6 @@ body{
     max-width: 1440px;
     width: 100%;
     height: 704px;
-    margin: 0 auto;
 }
 
 .eco__wrap{
@@ -779,7 +778,6 @@ body{
 .eco__items{
     max-width: 620px;
     width: 100%;
-    height: 318px;
     margin-top: 30px;
     margin-left: 60px;
 
@@ -1067,6 +1065,11 @@ body{
     letter-spacing: 0.36px;
     color: #525C60;
     text-decoration: none;
+}
+
+.pages__item a:hover, .pages__item a:active{
+    color: #7EB693;
+    transition-duration: .3s;
 }
 
 .footer__map{

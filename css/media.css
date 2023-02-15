@@ -400,21 +400,26 @@
     }
 
     .eco__friedly {
-        left: 0;
-        top: 0;
-    }
-
-    .eco__wrap{
-        display: flex;
+        left: 60px;
+        top: 100px;
+        width: auto;
+        height: auto;
     }
 
     .eco__caption {
-        margin-top: 100px;
-        justify-content: center;
+        margin-top: 0;
+        margin-left: 0;
     }
 
     .eco__heading{
         width: 100%;
+        margin-left: 0;
+    }
+
+    .eco__items{
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
     }
 
     .main__picture{
@@ -876,6 +881,10 @@
         margin-right: 00px;
     }
 
+    .maim__eco {
+        height: 950px;
+    }
+
     .email__bg {
         height: 210px;
     }
@@ -1049,6 +1058,10 @@
         height: 380px;
     }
 
+    .maim__eco {
+        height: 1050px;
+    }
+
     .email__bg {
         height: 190px;
     }
@@ -1093,6 +1106,10 @@
 
     .testimonial__info p {
         max-width: 260px;
+    }
+
+    .maim__eco {
+        height: 1180px;
     }
 
     .email__heading {
